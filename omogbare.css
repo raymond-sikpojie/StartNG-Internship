@@ -1,0 +1,41 @@
+body {
+background-color: lightgoldenrodyellow;
+margin: auto;
+width: 70%;
+
+
+}
+
+.heading {
+    color: rgb(16, 70, 16);
+    padding: 20px;
+    
+    
+}
+
+.heading2 {
+    background-color: lightblue;
+    padding:30px;
+    font-size: 18px;
+}
+
+#header {
+    font-size: 18px;
+    text-align: center;
+}
+
+#skills {
+    background-color: lightblue;
+    padding:30px;
+    font-size: 18px;
+}
+
+li {
+    padding: 5px;
+}
+
+img {
+    width: 20%;
+    height: 5%;
+    margin: auto;
+}
